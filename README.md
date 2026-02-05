@@ -11,7 +11,9 @@ O que foi feito:
 Utilizei dados públicos do SNIS (Sistema Nacional de Informações sobre Saneamento) e do IBGE para analisar quase 4 mil municípios. A abordagem técnica envolveu:
 
 1- Limpeza e tratamento de dados com Python.
+
 2- Análise estatística inicial (Correlação de Pearson e Regressão Linear), que se mostrou insuficiente para a complexidade do problema (R-quadrado de apenas 0.08).
+
 3- Implementação e otimização de algoritmos de Machine Learning (Random Forest e Gradient Boosting) para capturar padrões não lineares.
 
 Resultados:
