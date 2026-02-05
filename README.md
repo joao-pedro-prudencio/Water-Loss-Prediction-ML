@@ -1,4 +1,4 @@
-Predição de Perdas de Água em Municípios Brasileiros:
+Predição de Perdas de Água em Municípios Brasileiros
 
 Este repositório contém o código e a documentação do projeto de pesquisa desenvolvido durante minha bolsa de pesquisa na UDESC. O trabalho foi premiado com o 1º lugar no 34º Seminário de Iniciação Científica da universidade.
 
